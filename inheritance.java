@@ -4,12 +4,8 @@ public class inheritance {
  inheritance increase class's richness
  same method name = different work is called overriding
  is a class relationship
- has a class relationship ans has a class realtionsihp not possible in abstract class
  is  a ralationsip compulsiory in abstract class
- we can't define abstract calss only declare
-interface is the replacement of abstract class
 
- loosely coupled application make abstraact class 
  */
 public static void main(String[] args) {
     // B b1 = new B();
