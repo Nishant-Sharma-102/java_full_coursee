@@ -4,7 +4,7 @@ import java.util.*;
 /*
 
  INTERVIEW QUESTION..
- 
+
  Checked exception -> Compile time exception 
  Unchecked exception -> run time exception
  Throw -> user define exception
@@ -29,9 +29,9 @@ public class testException {
         c = a/b;
         System.out.println(c);
         }
-        // catch(Exception e){
-        // System.out.println("this is division error ");
-        // }
+        catch(Exception e){
+        System.out.println("this is division error ");
+        }
         finally{
         System.out.println("this is finally block -> ");
         }
